@@ -1,0 +1,171 @@
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Runner: processes
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Chooser: simple
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration suite_name = "suite"
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration cache_filename = "/mnt/c/Users/dylan/Documents/VS Code Projects/homework3-Dylan-sci/_build/oUnit-$(suite_name).cache"
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration run_gc_full_major = "true"
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration display = "true"
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration results_style_1_X = "false"
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration testdata_dir = "none"
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration health_check_interval = "1."
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration verbose = "false"
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration chooser = "simple"
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration output_html_dir = "none"
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration processes_kill_period = "5."
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration runner = "processes"
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration shards = "8"
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration processes_grace_period = "5."
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration log_encoding = "utf-8"
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration output_junit_file = "none"
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration ci = "false"
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Configuration output_file = "/mnt/c/Users/dylan/Documents/VS Code Projects/homework3-Dylan-sci/_build/oUnit-$(suite_name)-$(shard_id).log"
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Using 8 workers maximum.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Starting worker number DYLANS-PC#01.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#01 started.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Starting worker number DYLANS-PC#02.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#02 started.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Starting worker number DYLANS-PC#03.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#03 started.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Starting worker number DYLANS-PC#04.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#04 started.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Starting worker number DYLANS-PC#05.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#05 started.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Starting worker number DYLANS-PC#06.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#06 started.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Starting worker number DYLANS-PC#07.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#07 started.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Starting worker number DYLANS-PC#08.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#08 started.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: 8 tests running: suite:7:mul3, suite:6:mul2, suite:5:mul1, suite:4:lets, suite:3:let, suite:2:adds, suite:1:add, suite:0:int.
+2023-11-26T00:54:11+00:00 DYLANS-PC#01 I: Start test suite:0:int.
+2023-11-26T00:54:11+00:00 DYLANS-PC#02 I: Start test suite:1:add.
+2023-11-26T00:54:11+00:00 DYLANS-PC#03 I: Start test suite:2:adds.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: 8 tests running: suite:7:mul3, suite:6:mul2, suite:5:mul1, suite:4:lets, suite:3:let, suite:2:adds, suite:1:add, suite:0:int.
+2023-11-26T00:54:11+00:00 DYLANS-PC#01 I: Test suite:0:int is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#02 I: Test suite:1:add is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#03 I: Test suite:2:adds is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#04 I: Start test suite:3:let.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: 8 tests running: suite:7:mul3, suite:6:mul2, suite:5:mul1, suite:4:lets, suite:3:let, suite:2:adds, suite:1:add, suite:0:int.
+2023-11-26T00:54:11+00:00 DYLANS-PC#01 I: End test suite:0:int.
+2023-11-26T00:54:11+00:00 DYLANS-PC#02 I: End test suite:1:add.
+2023-11-26T00:54:11+00:00 DYLANS-PC#03 I: End test suite:2:adds.
+2023-11-26T00:54:11+00:00 DYLANS-PC#04 I: Test suite:3:let is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: 8 tests running: suite:7:mul3, suite:6:mul2, suite:5:mul1, suite:4:lets, suite:3:let, suite:2:adds, suite:1:add, suite:0:int.
+2023-11-26T00:54:11+00:00 DYLANS-PC#04 I: End test suite:3:let.
+2023-11-26T00:54:11+00:00 DYLANS-PC#05 I: Start test suite:4:lets.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: 8 tests running: suite:10:true, suite:9:if1, suite:8:mul4, suite:7:mul3, suite:6:mul2, suite:5:mul1, suite:4:lets, suite:3:let.
+2023-11-26T00:54:11+00:00 DYLANS-PC#05 I: Test suite:4:lets is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#06 I: Start test suite:5:mul1.
+2023-11-26T00:54:11+00:00 DYLANS-PC#03 I: Start test suite:8:mul4.
+2023-11-26T00:54:11+00:00 DYLANS-PC#02 I: Start test suite:9:if1.
+2023-11-26T00:54:11+00:00 DYLANS-PC#01 I: Start test suite:10:true.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: 8 tests running: suite:11:leq, suite:10:true, suite:9:if1, suite:8:mul4, suite:7:mul3, suite:6:mul2, suite:5:mul1, suite:4:lets.
+2023-11-26T00:54:11+00:00 DYLANS-PC#05 I: End test suite:4:lets.
+2023-11-26T00:54:11+00:00 DYLANS-PC#06 I: Test suite:5:mul1 is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#07 I: Start test suite:6:mul2.
+2023-11-26T00:54:11+00:00 DYLANS-PC#03 I: Test suite:8:mul4 is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#02 I: Test suite:9:if1 is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#01 I: Test suite:10:true is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: 8 tests running: suite:11:leq, suite:10:true, suite:9:if1, suite:8:mul4, suite:7:mul3, suite:6:mul2, suite:5:mul1, suite:4:lets.
+2023-11-26T00:54:11+00:00 DYLANS-PC#06 I: End test suite:5:mul1.
+2023-11-26T00:54:11+00:00 DYLANS-PC#07 I: Test suite:6:mul2 is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#08 I: Start test suite:7:mul3.
+2023-11-26T00:54:11+00:00 DYLANS-PC#03 I: End test suite:8:mul4.
+2023-11-26T00:54:11+00:00 DYLANS-PC#02 I: End test suite:9:if1.
+2023-11-26T00:54:11+00:00 DYLANS-PC#01 I: End test suite:10:true.
+2023-11-26T00:54:11+00:00 DYLANS-PC#04 I: Start test suite:11:leq.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: 8 tests running: suite:12:if2, suite:11:leq, suite:10:true, suite:9:if1, suite:8:mul4, suite:7:mul3, suite:6:mul2, suite:5:mul1.
+2023-11-26T00:54:11+00:00 DYLANS-PC#07 I: End test suite:6:mul2.
+2023-11-26T00:54:11+00:00 DYLANS-PC#08 I: Test suite:7:mul3 is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#04 I: Test suite:11:leq is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: 8 tests running: suite:16:invalid mult, suite:15:invalid plus, suite:14:letif, suite:13:if3, suite:12:if2, suite:11:leq, suite:7:mul3, suite:6:mul2.
+2023-11-26T00:54:11+00:00 DYLANS-PC#08 I: End test suite:7:mul3.
+2023-11-26T00:54:11+00:00 DYLANS-PC#04 I: End test suite:11:leq.
+2023-11-26T00:54:11+00:00 DYLANS-PC#05 I: Start test suite:12:if2.
+2023-11-26T00:54:11+00:00 DYLANS-PC#01 I: Start test suite:13:if3.
+2023-11-26T00:54:11+00:00 DYLANS-PC#02 I: Start test suite:14:letif.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: 8 tests running: suite:17:invalid leq, suite:16:invalid mult, suite:15:invalid plus, suite:14:letif, suite:13:if3, suite:12:if2, suite:11:leq, suite:7:mul3.
+2023-11-26T00:54:11+00:00 DYLANS-PC#05 I: Test suite:12:if2 is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#01 I: Test suite:13:if3 is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#02 I: Test suite:14:letif is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#03 I: Start test suite:15:invalid plus.
+2023-11-26T00:54:11+00:00 DYLANS-PC#06 I: Start test suite:16:invalid mult.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Still 8 tests running : suite:19:unbound, suite:18:invalid guard, suite:17:invalid leq, suite:16:invalid mult, suite:15:invalid plus, suite:14:letif, suite:13:if3, suite:12:if2.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: 8 tests running: suite:19:unbound, suite:18:invalid guard, suite:17:invalid leq, suite:16:invalid mult, suite:15:invalid plus, suite:14:letif, suite:13:if3, suite:12:if2.
+2023-11-26T00:54:11+00:00 DYLANS-PC#05 I: End test suite:12:if2.
+2023-11-26T00:54:11+00:00 DYLANS-PC#01 I: End test suite:13:if3.
+2023-11-26T00:54:11+00:00 DYLANS-PC#02 I: End test suite:14:letif.
+2023-11-26T00:54:11+00:00 DYLANS-PC#03 I: Test suite:15:invalid plus is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#06 I: Test suite:16:invalid mult is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#07 I: Start test suite:17:invalid leq.
+2023-11-26T00:54:11+00:00 DYLANS-PC#04 I: Start test suite:18:invalid guard.
+2023-11-26T00:54:11+00:00 DYLANS-PC#08 I: Start test suite:19:unbound.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Still 8 tests running : suite:19:unbound, suite:18:invalid guard, suite:17:invalid leq, suite:16:invalid mult, suite:15:invalid plus, suite:14:letif, suite:13:if3, suite:12:if2.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: 8 tests running: suite:19:unbound, suite:18:invalid guard, suite:17:invalid leq, suite:16:invalid mult, suite:15:invalid plus, suite:14:letif, suite:13:if3, suite:12:if2.
+2023-11-26T00:54:11+00:00 DYLANS-PC#03 I: End test suite:15:invalid plus.
+2023-11-26T00:54:11+00:00 DYLANS-PC#06 I: End test suite:16:invalid mult.
+2023-11-26T00:54:11+00:00 DYLANS-PC#07 I: Test suite:17:invalid leq is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#04 I: Test suite:18:invalid guard is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#08 I: Test suite:19:unbound is successful.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Still 5 tests running : suite:19:unbound, suite:18:invalid guard, suite:17:invalid leq, suite:16:invalid mult, suite:15:invalid plus.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: 5 tests running: suite:19:unbound, suite:18:invalid guard, suite:17:invalid leq, suite:16:invalid mult, suite:15:invalid plus.
+2023-11-26T00:54:11+00:00 DYLANS-PC#07 I: End test suite:17:invalid leq.
+2023-11-26T00:54:11+00:00 DYLANS-PC#04 I: End test suite:18:invalid guard.
+2023-11-26T00:54:11+00:00 DYLANS-PC#08 I: End test suite:19:unbound.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Still 3 tests running : suite:19:unbound, suite:18:invalid guard, suite:17:invalid leq.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: 3 tests running: suite:19:unbound, suite:18:invalid guard, suite:17:invalid leq.
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: 0 tests running: .
+2023-11-26T00:54:11+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#05 has ended.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#01 has ended.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#02 has ended.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#03 has ended.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#06 has ended.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#07 has ended.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#04 has ended.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Worker DYLANS-PC#08 has ended.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Used 8 worker during test execution.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Run 2 tests with shard DYLANS-PC#06.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Run 3 tests with shard DYLANS-PC#03.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Run 2 tests with shard DYLANS-PC#07.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Run 3 tests with shard DYLANS-PC#02.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Run 2 tests with shard DYLANS-PC#05.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Run 2 tests with shard DYLANS-PC#08.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Run 3 tests with shard DYLANS-PC#04.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Run 3 tests with shard DYLANS-PC#01.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Check health of shard DYLANS-PC#06, 2 times.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Check health of shard DYLANS-PC#03, 2 times.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Check health of shard DYLANS-PC#07, 1 times.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Check health of shard DYLANS-PC#02, 3 times.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Check health of shard DYLANS-PC#05, 3 times.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Check health of shard DYLANS-PC#08, 1 times.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Check health of shard DYLANS-PC#04, 1 times.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Check health of shard DYLANS-PC#01, 3 times.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: ==============
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Summary:
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:19:unbound is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:18:invalid guard is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:17:invalid leq is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:16:invalid mult is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:15:invalid plus is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:14:letif is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:13:if3 is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:12:if2 is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:11:leq is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:7:mul3 is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:6:mul2 is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:10:true is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:9:if1 is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:8:mul4 is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:5:mul1 is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:4:lets is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:3:let is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:2:adds is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:1:add is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Test suite:0:int is successful.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Ran: 20 tests in: 0.17 seconds.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Cases: 20.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Tried: 20.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Errors: 0.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Failures: 0.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Skip: 0.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Todo: 0.
+2023-11-26T00:54:12+00:00 DYLANS-PC#00 I: Timeout: 0.
